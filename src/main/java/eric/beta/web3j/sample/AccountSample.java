@@ -1,6 +1,6 @@
 package eric.beta.web3j.sample;
 
-import eric.beta.web3j.dtp.AccountDTO;
+import eric.beta.web3j.dto.AccountDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.web3j.protocol.admin.Admin;

@@ -1,6 +1,6 @@
 package eric.beta.web3j.controller;
 
-import eric.beta.web3j.dtp.AccountDTO;
+import eric.beta.web3j.dto.AccountDTO;
 import eric.beta.web3j.sample.AccountSample;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

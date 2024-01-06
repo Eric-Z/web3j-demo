@@ -1,4 +1,4 @@
-package eric.beta.web3j.dtp;
+package eric.beta.web3j.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
