@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+web3j:
+  http-service-url: http://localhost:8545
+
+logging:
+  level:
+    root: info
